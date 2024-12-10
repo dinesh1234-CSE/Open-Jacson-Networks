@@ -1,3 +1,11 @@
+ # EXP-6
+ # 14-12-2024
+ # Name : CH.DINESH KUMAR
+ # REG: 24000305
+
+
+
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -23,7 +31,7 @@ Visual components and Python
 **Developed by: CH.Dinesh Kumar
 **Register No:24000305
 ## Program
-Bharr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
+arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 
